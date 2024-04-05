@@ -19,3 +19,8 @@ Observações
 Este é um projeto simples e pode ser utilizado para entender conceitos básicos de programação em Python.
 As operações são limitadas apenas para fins didáticos, podendo ser expandidas conforme necessário.
 Certifique-se de inserir valores válidos conforme solicitado pelo programa para evitar erros.
+
+
+
+<img src="kisspng-python-scalable-vector-graphics-logo-javascript-cl-coderpete-game-development-5b6819307ca155.2506144815335488485105.jpg" width="500" height="500">
+
