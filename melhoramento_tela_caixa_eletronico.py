@@ -1,11 +1,18 @@
-menu = """
+import textwrap 
 
-[d] Depositar
-[s] Sacar
-[e] Extrato
-[q] Sair
+def menu():
+    menu = """\n
+    ======= OPÇÕES =======
 
-=> """
+    [d]\tDepositar
+    [s]\tSacar
+    [e]\tExtrato
+    [nc]\tNova conta
+    [lc]\tListar contas
+    [nu]\tNovo Usuário
+    [q]\tSair
+    => """
+    return input(textwrap.dedent(menu))
 
 saldo = 0
 limite = 500
